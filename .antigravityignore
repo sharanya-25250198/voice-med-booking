@@ -1,0 +1,16 @@
+# Antigravity Workspace Ignore Settings
+node_modules/
+frontend/node_modules/
+.venv/
+backend/.venv/
+dist/
+frontend/dist/
+*.db
+*.sqlite
+*.sqlite3
+backend/clinic.db
+.env
+backend/.env
+frontend/.env
+*.log
+.git/

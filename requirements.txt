@@ -1,0 +1,6 @@
+fastapi
+pydantic
+sqlalchemy
+psycopg2-binary
+python-dotenv
+httpx

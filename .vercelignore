@@ -1,0 +1,12 @@
+# Ignore local virtual environments and node modules for fast Vercel builds
+backend/pyenv
+pyenv
+frontend/node_modules
+node_modules
+frontend/dist
+.git
+.cache
+__pycache__
+backend/__pycache__
+*.db
+scratch

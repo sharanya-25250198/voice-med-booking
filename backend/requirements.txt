@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+python-dotenv
+httpx
+sqlalchemy
+asyncpg
+pipecat-ai[google,deepgram,websocket]
+google-generativeai
+deepgram-sdk
+loguru
+aiohttp
+websockets
+psycopg2-binary
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
